@@ -94,7 +94,7 @@ Create a class named Shape. This will be a Super or Parent class.
     }
     }
 
-### Step 
+### Step 2
 Create a class named Circle. This will be a Child class. Write the code below.
 
     package bootcamp10.Assignments.GLAB303_10_2;
