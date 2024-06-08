@@ -112,8 +112,7 @@ Create a class named Triangle. This will be a Child class.
         /** Returns a self-descriptive string */
         @Override
         public String toString() {
-            return "Triangle[base=" + super.base + ",height=" + super.height + "," +
-super.toString() + "]";
+            return "Triangle[base=" + super.base + ",height=" + super.height + "," + super.toString() + "]";
         }
         }
 
